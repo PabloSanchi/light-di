@@ -1,7 +1,7 @@
 from setuptools import find_packages, setup
 
 setup(
-	name="lightdi",
+	name="light-dependency-injection",
 	version="0.1.1",
 	description="A lightweight dependency injection module for Python.",
 	long_description=open("README.md").read(),
