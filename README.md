@@ -1,4 +1,7 @@
 # LIGHT DI
+
+[![PyPI Downloads](https://static.pepy.tech/badge/light-dependency-injection)](https://pepy.tech/projects/light-dependency-injection)
+
 ## Dependency Injection Module for Python
 
 LightDI is a lightweight, framework-agnostic dependency injection module for Python.
